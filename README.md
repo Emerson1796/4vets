@@ -1,4 +1,4 @@
-# 4vets
+# Calculadora
 Essa aplicação foi desenvolvida com o intuito de simular uma calculadora, capaz de validar a possibilidade de fazer uma operação matemática.
 Para possibilitar seu uso siga os passos abaixo:
 1 - Baixar código para sua máquina;
@@ -6,7 +6,7 @@ Para possibilitar seu uso siga os passos abaixo:
 3 - Ativar o Apache;
 4 - Abrir a página web onde se localiza o arquivo, por exemplo: "localhost/4vets".
 
-Modo de Usar:
+## Modo de Usar:
 1 - Digite valores numéricos para os Numero A e B;
 	Obs.: O separador decimal usado é o ponto ".".
 2 - Por fim escolher a operação matemática desejada;
